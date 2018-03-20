@@ -1,4 +1,6 @@
 # blockchain
+****PLease change the network if in case it fails to open. There is issue of IP blocker or firewall. Suggested mobile network.
+
 We have created and identity authentication system based on blockchain technology
 There is Three versions of the application-
 1-	One is web app and we have hosted it on real time server.
