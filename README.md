@@ -20,6 +20,12 @@ LINK to OUR PROJECT:
 
 3. https://github.com/surjit16/uidchain
 
+APK LINK FOR Android APP
+
+1. https://github.com/surjit16/mobileBlockchain/blob/3df14717630587d937b8e16222aa7f841c40b497/app/release/app-release.apk
+
+2. https://github.com/surjit16/ClientInterface/blob/773108efd8bea890f975acfcafdd12d2961a57d2/app/release/app-release.apk
+
 **********************************************Instruction to use-***********************************************************************
 -While using any of the app please do not use any firewall or proxy. Rather use mobile phone network (jio, airtel etc.)
 
